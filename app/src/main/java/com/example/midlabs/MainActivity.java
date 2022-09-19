@@ -50,6 +50,10 @@ public class MainActivity extends AppCompatActivity {
         TextView editText = findViewById(s2);
         Button but = findViewById(s3);
         TextView ti = findViewById(s1);
+        if (editText.getText().toString().equals("")){
+            return "";
+        }
+
 
 
         ti.animate().alpha(0f).setDuration(time);
@@ -90,6 +94,10 @@ public class MainActivity extends AppCompatActivity {
         TextView editText = findViewById(s2);
         Button but = findViewById(s3);
         TextView ti = findViewById(s1);
+
+        if (editText.getText().toString().equals("")){
+            return "";
+        }
 
         ti.animate().alpha(0f).setDuration(time);
         but.animate().alpha(0f).setDuration(time);
