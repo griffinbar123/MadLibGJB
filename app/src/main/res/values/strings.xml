@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MidLabs</string>
+    <string name="title">Enter A Word Or Phrase Based On Prompt</string>
+    <string name="a_male_name">A Male Name</string>
+    <string name="enter_word">Enter Word:</string>
+    <string name="submit">Submit</string>
+    <string name="a_relaxing_activity">A Relaxing Activity</string>
+    <string name="an_annoying_noise">An Annoying Noise</string>
+    <string name="an_activity">An Activity</string>
+    <string name="a_number">A Number</string>
+    <string name="a_unit_of_distance">A Unit Of Distance</string>
+    <string name="an_occupation">An Occupation</string>
+    <string name="a_unit_of_time_plural">A Unit Of Time (Plural)</string>
+    <string name="a_college_major">A College Major</string>
+    <string name="a_verb">A Verb</string>
+    <string name="an_adjective">An Adjective</string>
+    <string name="a_type_of_bird">A Type Of Bird</string>
+    <string name="a_verb_past_tense">A Verb(Past Tense)</string>
+    <string name="a_relative_s_name">A Relative\'s Name</string>
+    <string name="a_noun">A Noun</string>
+    <string name="a_liquid">A Liquid</string>
+    <string name="a_verb_ending_in_ing">A Verb Ending In -ing</string>
+    <string name="din">the dinner. My mom said, \"</string>
+    <string name="could">couldn\'t believe my</string>
+
+</resources>
