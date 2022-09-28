@@ -5,6 +5,10 @@
     android:layout_width="match_parent"
     android:background="@drawable/back_grad"
     android:layout_height="match_parent">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
 <androidx.constraintlayout.widget.ConstraintLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -60,7 +64,7 @@
         android:textColor="@color/white"
         android:fontFamily="sans-serif-medium"
         android:paddingHorizontal="10dp"
-        android:textSize="28sp"
+        android:textSize="26sp"
         android:text="November day. I woke up"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/annoying_final"
@@ -212,7 +216,7 @@
         android:textColor="@color/white"
         android:fontFamily="sans-serif-medium"
         android:paddingHorizontal="10dp"
-        android:textSize="28sp"
+        android:textSize="26sp"
         android:text="@string/din"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/verb_final"
@@ -467,4 +471,5 @@
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+    </HorizontalScrollView>
 </androidx.core.widget.NestedScrollView>
